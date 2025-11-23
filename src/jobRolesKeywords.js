@@ -1,6 +1,6 @@
 const engineeringBranches = [
   {
-    branch: 'Civil Engineering',
+    branch: 'Civil Engineering (CE)',
     roles: [
       { title: 'Structural Engineer', keywords: ['structural analysis', 'autocad', 'load calculations', 'building codes', 'construction drawings', 'reinforced concrete', 'steel structures'] },
       { title: 'Transportation Engineer', keywords: ['traffic studies', 'highway design', 'transportation planning', 'pavement design', 'bridge engineering'] },
@@ -10,7 +10,7 @@ const engineeringBranches = [
     ],
   },
   {
-    branch: 'Mechanical Engineering',
+    branch: 'Mechanical Engineering (ME)',
     roles: [
       { title: 'Automotive Engineer', keywords: ['vehicle design', 'powertrain', 'automotive systems', 'thermodynamics', 'fatigue analysis'] },
       { title: 'Manufacturing Engineer', keywords: ['manufacturing processes', 'lean manufacturing', 'quality control', 'automation', 'cad/cam'] },
@@ -20,7 +20,7 @@ const engineeringBranches = [
     ],
   },
   {
-    branch: 'Computer Science',
+    branch: 'Computer Science & Engineering (CSE)',
     roles: [
       { title: 'Software Engineer', keywords: ['git', 'Java', 'App development', 'datastructures', 'React', 'web development'] },
       { title: 'Data Scientist', keywords: ['machine learning', 'data analysis', 'python', 'statistics', 'data mining'] },
@@ -30,7 +30,7 @@ const engineeringBranches = [
     ],
   },
   {
-    branch: 'Electronics & Communication (E&C)',
+    branch: 'Electronics & Communication Engineering (E&C) ',
     roles: [
       { title: 'Embedded Systems Engineer', keywords: ['embedded programming', 'microcontroller', 'firmware', 'rtos', 'hardware interfacing'] },
       { title: 'Telecommunication Engineer', keywords: ['wireless communication', 'network protocols', 'signal modulation', 'fiber optics', 'satellite communications'] },
